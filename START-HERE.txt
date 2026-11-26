@@ -1,0 +1,28 @@
+POURIA'S GITHUB PROFILE — START HERE
+
+1) On GitHub, create a NEW PUBLIC repository named exactly:
+   puriyamahdian
+
+2) Make sure the repository name exactly matches your GitHub username.
+   If GitHub says the repository already exists, open it instead of creating another.
+
+3) Do NOT initialize it with a README, license, or .gitignore if you are uploading these files.
+
+4) Open the repository > Add file > Upload files.
+   Upload README.md, the assets folder, and the .github folder while preserving folder structure.
+   Commit the upload to the main branch.
+
+5) Open https://github.com/puriyamahdian
+   Your profile README should appear on your profile.
+
+6) To enable the contribution snake:
+   Repository > Settings > Actions > General > Workflow permissions.
+   Select "Read and write permissions" and save.
+   Then open Actions > Generate contribution snake > Run workflow.
+   After it finishes, refresh your profile. The snake may need a minute to appear.
+
+NOTES
+- README content is in English to suit a professional portfolio.
+- Contact links are intentionally omitted until you provide real details.
+- Skills are described conservatively; update them as your experience grows.
+- External stats cards and typing animation require their third-party services to be online.
